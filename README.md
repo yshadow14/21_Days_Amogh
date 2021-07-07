@@ -3,3 +3,6 @@ Hello! my name is Amogh PrabhuTendulker.
 Lets start the 21 days **Intermediate** challenge!
 
 Day1: I started with Data cleaning. I know the concept so I had to just brush up with the concepts!
+
+Day2: I read Feature Selection Techniques in Machine Learning with Python article along with basic code implementation
+
