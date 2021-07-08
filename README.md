@@ -7,4 +7,5 @@ Day1: I started with Data cleaning. I know the concept so I had to just brush up
 Day2: I read Feature Selection Techniques in Machine Learning with Python article along with basic code implementation
 
 Day 3: I watched all the 7 videos on Data science project from stratch. I also tried some of the concepts
+I also completed the intro to machine learning course on kaggle
 
