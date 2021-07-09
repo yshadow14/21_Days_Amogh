@@ -9,3 +9,4 @@ Day2: I read Feature Selection Techniques in Machine Learning with Python articl
 Day 3: I watched all the 7 videos on Data science project from stratch. I also tried some of the concepts
 I also completed the intro to machine learning course on kaggle
 
+Day 4: I competed intermediate machine learning and pandas on kaggle
