@@ -12,3 +12,5 @@ I also completed the intro to machine learning course on kaggle
 Day 4: I competed intermediate machine learning and pandas on kaggle
 
 Day 5: I watched a couple of videoes on data visualization.I also completed the data visualization course on kaggle
+
+Day 6: I read the Feature Engineering: What Powers Machine Learning | by Will Koehrsen
