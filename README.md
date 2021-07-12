@@ -13,4 +13,6 @@ Day 4: I competed intermediate machine learning and pandas on kaggle
 
 Day 5: I watched a couple of videoes on data visualization.I also completed the data visualization course on kaggle
 
-Day 6: I read the Feature Engineering: What Powers Machine Learning | by Will Koehrsen
+Day 6: I read the Feature Engineering: What Powers Machine Learning by Will Koehrsen
+
+Day 7 : I read Data Science Performance Metrics for Everyone by Andrew Long and K-means Clustering article
