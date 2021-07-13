@@ -16,3 +16,5 @@ Day 5: I watched a couple of videoes on data visualization.I also completed the 
 Day 6: I read the Feature Engineering: What Powers Machine Learning by Will Koehrsen
 
 Day 7 : I read Data Science Performance Metrics for Everyone by Andrew Long and K-means Clustering article
+
+Day 8: i Started with advance course in NPL. watched naive bayes video
