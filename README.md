@@ -17,4 +17,4 @@ Day 6: I read the Feature Engineering: What Powers Machine Learning by Will Koeh
 
 Day 7 : I read Data Science Performance Metrics for Everyone by Andrew Long and K-means Clustering article
 
-Day 8: i Started with advance course in NPL. watched naive bayes video
+Day 8: i Started with advance course in NPL. watched naive bayes video 
