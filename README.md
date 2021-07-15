@@ -20,3 +20,5 @@ Day 7 : I read Data Science Performance Metrics for Everyone by Andrew Long and 
 Day 8: i Started with advance course in NPL. watched naive bayes video 
 
 Day 9 : i watched KNN Algorithm Using Python | How KNN Algorithm Works | Data Science For Beginners | Simplilearn
+
+Day 10: i tried Naive bayes implementation in python
