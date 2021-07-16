@@ -22,3 +22,5 @@ Day 8: i Started with advance course in NPL. watched naive bayes video
 Day 9 : i watched KNN Algorithm Using Python | How KNN Algorithm Works | Data Science For Beginners | Simplilearn
 
 Day 10: i tried Naive bayes implementation in python
+
+Day 11:I implemented KNN in python from scratch
