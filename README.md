@@ -24,3 +24,5 @@ Day 9 : i watched KNN Algorithm Using Python | How KNN Algorithm Works | Data Sc
 Day 10: i tried Naive bayes implementation in python
 
 Day 11:I implemented KNN in python from scratch
+
+Day 12:Implemented locally weighted regression for KNN and KNN for continuous values
