@@ -28,4 +28,7 @@ Day 11:I implemented KNN in python from scratch
 Day 12:Implemented locally weighted regression for KNN and KNN for continuous values
 
 Day 13: Implementation of Naive bayes for text classification
+
 Day 14: i read the logistic regression pdf
+
+Day 15: i read a beginner's guide to sentiment analysis
