@@ -34,3 +34,5 @@ Day 14: i read the logistic regression pdf
 Day 15: i read a beginner's guide to sentiment analysis
 
 day 16: i started with linear regression videos
+
+day 17: i started with CNN
