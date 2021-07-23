@@ -36,3 +36,6 @@ Day 15: i read a beginner's guide to sentiment analysis
 day 16: i started with linear regression videos
 
 day 17: i started with CNN
+
+Day 18: i didn't get much time but I continued with CNN
+
