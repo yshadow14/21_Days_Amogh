@@ -41,3 +41,5 @@ Day 18: i didn't get much time but I continued with CNN
 
 Day 19: I started watching "A friendly introduction to Convolutional Neural Networks and Image Recognition"
 
+Day 20: i tried to implement CNN in python and also started reading on LSTMs
+
