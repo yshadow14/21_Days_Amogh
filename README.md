@@ -43,3 +43,5 @@ Day 19: I started watching "A friendly introduction to Convolutional Neural Netw
 
 Day 20: i tried to implement CNN in python and also started reading on LSTMs
 
+Day 21: i tried to implement LSTMs in python but couldnt update the status on github as i had a very bad nw yerterday
+
