@@ -45,3 +45,5 @@ Day 20: i tried to implement CNN in python and also started reading on LSTMs
 
 Day 21: i tried to implement LSTMs in python but couldnt update the status on github as i had a very bad nw yerterday
 
+project: bigmart sales using linearregressiona and randomforestregression
+
